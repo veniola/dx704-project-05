@@ -1,3 +1,0 @@
-Depth-First Search: https://www.youtube.com/watch?v=PMMc4VsIacU
-Breadth First Search: https://www.youtube.com/watch?v=xlVX7dXLS64
-Minimax Algorithm: https://www.youtube.com/watch?v=5y2a0Zhgq0U
